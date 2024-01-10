@@ -1,6 +1,6 @@
 # Ali Rezapouran
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rezapoora.ali@gmail.com)
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/ali-r79)
+[![Github]](https://github.com/ali-r79)
 
 ### 🖥 Skills
 

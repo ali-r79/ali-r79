@@ -19,4 +19,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=Flask&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
+![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535)
+![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535)
 
